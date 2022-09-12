@@ -4,7 +4,7 @@
 
 - Solidity
 - Javascript
-- [Ethers]
-- [Hardhat]
-- [Ipfs]
-- [React routers]
+- Ethers
+- Hardhat
+- Ipfs
+- React routers
